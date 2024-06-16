@@ -1,0 +1,1542 @@
+[
+    {
+      "estudiante": {
+        "codigo": "851245",
+        "identificacion": "E001",
+        "semestre": 2,
+        "nombre": "Díaz Aristizabal Carlos Enrique"
+      },
+      "definitiva": 3,
+      "notas": [
+        4,
+        3,
+        2
+      ],
+      "grupo": {
+        "codigo": "G1",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Lunes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851245",
+        "identificacion": "E001",
+        "semestre": 2,
+        "nombre": "Díaz Aristizabal Carlos Enrique"
+      },
+      "definitiva": 3,
+      "notas": [
+        4,
+        3,
+        2
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851245",
+        "identificacion": "E001",
+        "semestre": 2,
+        "nombre": "Díaz Aristizabal Carlos Enrique"
+      },
+      "definitiva": 3,
+      "notas": [
+        4,
+        3,
+        2
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851247",
+        "identificacion": "E002",
+        "semestre": 2,
+        "nombre": "Perez Ossa Adriana"
+      },
+      "definitiva": 2.733333333333333,
+      "notas": [
+        3,
+        4.2,
+        1
+      ],
+      "grupo": {
+        "codigo": "G1",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Lunes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851247",
+        "identificacion": "E002",
+        "semestre": 2,
+        "nombre": "Perez Ossa Adriana"
+      },
+      "definitiva": 3,
+      "notas": [
+        2,
+        3,
+        4
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851247",
+        "identificacion": "E002",
+        "semestre": 2,
+        "nombre": "Perez Ossa Adriana"
+      },
+      "definitiva": 2.766666666666667,
+      "notas": [
+        3,
+        3.3,
+        2
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "100001",
+          "cuantitativa": true,
+          "nombre": "Álgebra lineal"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851246",
+        "identificacion": "E003",
+        "semestre": 4,
+        "nombre": "Ramírez Valencia Cristian Camilo"
+      },
+      "definitiva": 3.033333333333333,
+      "notas": [
+        4.1,
+        2,
+        3
+      ],
+      "grupo": {
+        "codigo": "G1",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Lunes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851246",
+        "identificacion": "E003",
+        "semestre": 4,
+        "nombre": "Ramírez Valencia Cristian Camilo"
+      },
+      "definitiva": 3.8000000000000003,
+      "notas": [
+        2.9,
+        4,
+        4.5
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851246",
+        "identificacion": "E003",
+        "semestre": 4,
+        "nombre": "Ramírez Valencia Cristian Camilo"
+      },
+      "definitiva": 4.066666666666666,
+      "notas": [
+        4,
+        4.2,
+        4
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 2
+    },
+    {
+      "estudiante": {
+        "codigo": "851248",
+        "identificacion": "E004",
+        "semestre": 3,
+        "nombre": "Osorio Alvarez Pablo"
+      },
+      "definitiva": 4.1000000000000005,
+      "notas": [
+        3.1,
+        4.2,
+        5
+      ],
+      "grupo": {
+        "codigo": "G2",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Martes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851248",
+        "identificacion": "E004",
+        "semestre": 3,
+        "nombre": "Osorio Alvarez Pablo"
+      },
+      "definitiva": 3.3333333333333335,
+      "notas": [
+        2.5,
+        4.5,
+        3
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851248",
+        "identificacion": "E004",
+        "semestre": 3,
+        "nombre": "Osorio Alvarez Pablo"
+      },
+      "definitiva": 1.5,
+      "notas": [
+        1,
+        2.5,
+        1
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 4
+    },
+    {
+      "estudiante": {
+        "codigo": "851249",
+        "identificacion": "E005",
+        "semestre": 3,
+        "nombre": "Villa Ocampo Jaime"
+      },
+      "definitiva": 4.2,
+      "notas": [
+        3.4,
+        4.2,
+        5
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851249",
+        "identificacion": "E005",
+        "semestre": 3,
+        "nombre": "Villa Ocampo Jaime"
+      },
+      "definitiva": 3.8333333333333335,
+      "notas": [
+        2.5,
+        4,
+        5
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 2
+    },
+    {
+      "estudiante": {
+        "codigo": "851249",
+        "identificacion": "E005",
+        "semestre": 3,
+        "nombre": "Villa Ocampo Jaime"
+      },
+      "definitiva": 2.1666666666666665,
+      "notas": [
+        1,
+        3,
+        2.5
+      ],
+      "grupo": {
+        "codigo": "G7",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Miércoles 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 3
+    },
+    {
+      "estudiante": {
+        "codigo": "851250",
+        "identificacion": "E006",
+        "semestre": 2,
+        "nombre": "Salamanca Espinosa Jessica"
+      },
+      "definitiva": 3.233333333333333,
+      "notas": [
+        5,
+        2,
+        2.7
+      ],
+      "grupo": {
+        "codigo": "G1",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Lunes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851250",
+        "identificacion": "E006",
+        "semestre": 2,
+        "nombre": "Salamanca Espinosa Jessica"
+      },
+      "definitiva": 4.233333333333333,
+      "notas": [
+        4.2,
+        4.5,
+        4
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851250",
+        "identificacion": "E006",
+        "semestre": 2,
+        "nombre": "Salamanca Espinosa Jessica"
+      },
+      "definitiva": 3.8333333333333335,
+      "notas": [
+        5,
+        3,
+        3.5
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851251",
+        "identificacion": "E007",
+        "semestre": 2,
+        "nombre": "Muñoz Orozo Nicolás"
+      },
+      "definitiva": 4.266666666666667,
+      "notas": [
+        3.3,
+        4.5,
+        5
+      ],
+      "grupo": {
+        "codigo": "G2",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Martes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851251",
+        "identificacion": "E007",
+        "semestre": 2,
+        "nombre": "Muñoz Orozo Nicolás"
+      },
+      "definitiva": 3.5,
+      "notas": [
+        2.5,
+        3.5,
+        4.5
+      ],
+      "grupo": {
+        "codigo": "G5",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Viernes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851251",
+        "identificacion": "E007",
+        "semestre": 2,
+        "nombre": "Muñoz Orozo Nicolás"
+      },
+      "definitiva": 3.6,
+      "notas": [
+        4.5,
+        3.3,
+        3
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851252",
+        "identificacion": "E008",
+        "semestre": 1,
+        "nombre": "Arias Torres Juan Carlos"
+      },
+      "definitiva": 3.1666666666666665,
+      "notas": [
+        2.5,
+        3,
+        4
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851252",
+        "identificacion": "E008",
+        "semestre": 1,
+        "nombre": "Arias Torres Juan Carlos"
+      },
+      "definitiva": 1,
+      "notas": [
+        1,
+        1,
+        1
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 3
+    },
+    {
+      "estudiante": {
+        "codigo": "851252",
+        "identificacion": "E008",
+        "semestre": 1,
+        "nombre": "Arias Torres Juan Carlos"
+      },
+      "definitiva": 4,
+      "notas": [
+        4,
+        4,
+        4
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "100001",
+          "cuantitativa": true,
+          "nombre": "Álgebra lineal"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851253",
+        "identificacion": "E009",
+        "semestre": 1,
+        "nombre": "Londoño Alzate Ana María"
+      },
+      "definitiva": 1.8333333333333333,
+      "notas": [
+        2,
+        2.5,
+        1
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851253",
+        "identificacion": "E009",
+        "semestre": 1,
+        "nombre": "Londoño Alzate Ana María"
+      },
+      "definitiva": 3.9,
+      "notas": [
+        4.5,
+        4.2,
+        3
+      ],
+      "grupo": {
+        "codigo": "G7",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Miércoles 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851253",
+        "identificacion": "E009",
+        "semestre": 1,
+        "nombre": "Londoño Alzate Ana María"
+      },
+      "definitiva": 4.833333333333333,
+      "notas": [
+        5,
+        4.5,
+        5
+      ],
+      "grupo": {
+        "codigo": "G9",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "100001",
+          "cuantitativa": true,
+          "nombre": "Álgebra lineal"
+        },
+        "horario": "Martes 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851254",
+        "identificacion": "E010",
+        "semestre": 2,
+        "nombre": "Ocampo Celis Liliana"
+      },
+      "definitiva": 3.233333333333333,
+      "notas": [
+        4.5,
+        4.2,
+        1
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 2
+    },
+    {
+      "estudiante": {
+        "codigo": "851254",
+        "identificacion": "E010",
+        "semestre": 2,
+        "nombre": "Ocampo Celis Liliana"
+      },
+      "definitiva": 3.3333333333333335,
+      "notas": [
+        2.5,
+        3.5,
+        4
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851254",
+        "identificacion": "E010",
+        "semestre": 2,
+        "nombre": "Ocampo Celis Liliana"
+      },
+      "definitiva": 2.4,
+      "notas": [
+        3,
+        2.5,
+        1.7
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "100001",
+          "cuantitativa": true,
+          "nombre": "Álgebra lineal"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851255",
+        "identificacion": "E011",
+        "semestre": 4,
+        "nombre": "Chica Salgado Esteban"
+      },
+      "definitiva": 4.433333333333334,
+      "notas": [
+        4.8,
+        5,
+        3.5
+      ],
+      "grupo": {
+        "codigo": "G5",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Viernes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851255",
+        "identificacion": "E011",
+        "semestre": 4,
+        "nombre": "Chica Salgado Esteban"
+      },
+      "definitiva": 3.3333333333333335,
+      "notas": [
+        4,
+        5,
+        1
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851255",
+        "identificacion": "E011",
+        "semestre": 4,
+        "nombre": "Chica Salgado Esteban"
+      },
+      "definitiva": 3.3333333333333335,
+      "notas": [
+        2.5,
+        3.5,
+        4
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "500005",
+          "cuantitativa": true,
+          "nombre": "Estructuras de lenguajes"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851256",
+        "identificacion": "E012",
+        "semestre": 3,
+        "nombre": "Zuleta Arango Gustavo"
+      },
+      "definitiva": 4.9,
+      "notas": [
+        4.5,
+        4.2,
+        5
+      ],
+      "grupo": {
+        "codigo": "G6",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Lunes 10 a.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851256",
+        "identificacion": "E012",
+        "semestre": 3,
+        "nombre": "Zuleta Arango Gustavo"
+      },
+      "definitiva": 4.933333333333333,
+      "notas": [
+        4.3,
+        4.5,
+        5
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "600006",
+          "cuantitativa": true,
+          "nombre": "Estructuras de datos"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851257",
+        "identificacion": "E013",
+        "semestre": 4,
+        "nombre": "Aristizabal Varón Francisco"
+      },
+      "definitiva": 3.9666666666666663,
+      "notas": [
+        3.3,
+        3.8,
+        4.8
+      ],
+      "grupo": {
+        "codigo": "G4",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Jueves 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "cesar.franco@ucaldas.edu.co",
+          "identificacion": "142000",
+          "nombre": "César Franco"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 3
+    },
+    {
+      "estudiante": {
+        "codigo": "851257",
+        "identificacion": "E013",
+        "semestre": 4,
+        "nombre": "Aristizabal Varón Francisco"
+      },
+      "definitiva": 4.5,
+      "notas": [
+        4.5,
+        4.5
+      ],
+      "grupo": {
+        "codigo": "G7",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Miércoles 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851257",
+        "identificacion": "E013",
+        "semestre": 4,
+        "nombre": "Aristizabal Varón Francisco"
+      },
+      "definitiva": 2.9333333333333336,
+      "notas": [
+        1.7,
+        2.3,
+        4.8
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "500005",
+          "cuantitativa": true,
+          "nombre": "Estructuras de lenguajes"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851258",
+        "identificacion": "E014",
+        "semestre": 1,
+        "nombre": "Triana Vergara Jesús"
+      },
+      "definitiva": 5,
+      "notas": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "grupo": {
+        "codigo": "G3",
+        "asignatura": {
+          "horas": 64,
+          "codigo": "853251",
+          "cuantitativa": true,
+          "nombre": "Ingeniería de Software I"
+        },
+        "horario": "Miércoles 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 4,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851258",
+        "identificacion": "E014",
+        "semestre": 1,
+        "nombre": "Triana Vergara Jesús"
+      },
+      "definitiva": 3.4333333333333336,
+      "notas": [
+        3.5,
+        4.8,
+        2
+      ],
+      "grupo": {
+        "codigo": "G7",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Miércoles 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 3
+    },
+    {
+      "estudiante": {
+        "codigo": "851258",
+        "identificacion": "E014",
+        "semestre": 1,
+        "nombre": "Triana Vergara Jesús"
+      },
+      "definitiva": 3.5666666666666664,
+      "notas": [
+        4.7,
+        5,
+        1
+      ],
+      "grupo": {
+        "codigo": "G8",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "800008",
+          "cuantitativa": true,
+          "nombre": "Cálculo I"
+        },
+        "horario": "Viernes 4 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "gustavo.isaza@ucaldas.edu.co",
+          "identificacion": "124578",
+          "nombre": "Gustavo Isaza"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 1
+    },
+    {
+      "estudiante": {
+        "codigo": "851259",
+        "identificacion": "E015",
+        "semestre": 1,
+        "nombre": "Campaz Pérez Nicol Camila"
+      },
+      "definitiva": 3.533333333333333,
+      "notas": [
+        2.2,
+        3.4,
+        5
+      ],
+      "grupo": {
+        "codigo": "G2",
+        "asignatura": {
+          "horas": 96,
+          "codigo": "852147",
+          "cuantitativa": true,
+          "nombre": "Programación II"
+        },
+        "horario": "Martes 2 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 6,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 0
+    },
+    {
+      "estudiante": {
+        "codigo": "851259",
+        "identificacion": "E015",
+        "semestre": 1,
+        "nombre": "Campaz Pérez Nicol Camila"
+      },
+      "definitiva": 3.1,
+      "notas": [
+        3.1,
+        2.9,
+        3.3
+      ],
+      "grupo": {
+        "codigo": "G7",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "852345",
+          "cuantitativa": true,
+          "nombre": "Análisis y diseño de algoritmos"
+        },
+        "horario": "Miércoles 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "juan.h@ucaldas.edu.co",
+          "identificacion": "142111",
+          "nombre": "Juan Herrera"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 10
+    },
+    {
+      "estudiante": {
+        "codigo": "851259",
+        "identificacion": "E015",
+        "semestre": 1,
+        "nombre": "Campaz Pérez Nicol Camila"
+      },
+      "definitiva": 3.666666667,
+      "notas": [
+        5,
+        5,
+        1
+      ],
+      "grupo": {
+        "codigo": "G9",
+        "asignatura": {
+          "horas": 48,
+          "codigo": "800008",
+          "cuantitativa": true,
+          "nombre": "Cálculo I"
+        },
+        "horario": "Martes 6 p.m.",
+        "periodo": 2,
+        "semanas": 16,
+        "profesor": {
+          "correo": "carlos.gomez@ucaldas.edu.co",
+          "identificacion": "141415",
+          "nombre": "Carlos Gómez"
+        },
+        "horasSemana": 3,
+        "anio": 2020,
+        "cupo": 20
+      },
+      "inasistencia": 8
+    }
+  ]
